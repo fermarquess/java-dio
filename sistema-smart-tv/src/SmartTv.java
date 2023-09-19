@@ -1,5 +1,5 @@
 public class SmartTv {
-    
+    // características em nível de classe, ou seja, toda a classe consegue acessar estas
     boolean ligada = false;
     int canal = 1;
     int volume = 25;
